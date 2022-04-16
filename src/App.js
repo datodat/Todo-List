@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 // Css
-import './app.css';
+import './App.css';
 // Components
 import Header from './components/Header';
 import All from './components/All';
